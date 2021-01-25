@@ -48,10 +48,6 @@ The following image demonstrates the application functionality:
 ## Technologies Used: 
 <img src="https://img.shields.io/badge/Made%20With-HTML-brightgreen/relativePath"> <img src="https://img.shields.io/badge/Made%20With-CSS-yellow/relativePath"> <img src="https://img.shields.io/badge/Made%20With-Javascript-red/relativePath">  
 
-The following image demonstrates the application functionality:
-
-![password generator demo](./Assets/demo.png)
-
 ## Future Developments:
 Finishing the Application and adding functionality
 
