@@ -1,8 +1,21 @@
 # Weather-Dashboard
+<img src="https://img.shields.io/badge/Made%20With-HTML-brightgreen/relativePath"> <img src="https://img.shields.io/badge/Made%20With-CSS-yellow/relativePath"> <img src="https://img.shields.io/badge/Made%20With-Javascript-red/relativePath">  
 
-Developers are often tasked with retrieving data from another application's API and using it in the context of their own. Third-party APIs allow developers to access their data and functionality by making requests with specific parameters to a URL. I built a weather dashboard that will run in the browser and feature dynamically updated HTML and CSS using the OpenWeather API
+## Description: 
+Developers are often tasked with retrieving data from another application's API and using it in the context of their own. Third-party APIs allow developers to access their data and functionality by making requests with specific parameters to a URL. I built a weather dashboard that will run in the browser and feature dynamically updated HTML and CSS using the OpenWeather API.
 
-## User Story
+## Table Of Contents:
+  * [Installation](#installation)
+  * [User Story](#userstory)
+  * [Technologies Used](#technologiesused)
+  * [Future Development](#futuredevelopment)
+  * [License](#license)
+  * [Questions](#questions) 
+
+## Installation: 
+You can "git clone" this repository onto your local machine, and run the HTML file in your web browser.   
+
+## User Story:
 
 ```
 AS A traveler
@@ -10,7 +23,7 @@ I WANT to see the weather outlook for multiple cities
 SO THAT I can plan a trip accordingly
 ```
 
-## Acceptance Criteria
+## Acceptance Criteria:
 
 ```
 GIVEN a weather dashboard with form inputs
@@ -31,3 +44,21 @@ THEN I am presented with the last searched city forecast
 The following image demonstrates the application functionality:
 
 ![weather dashboard demo](./Assets/demo.png)
+
+## Technologies Used: 
+<img src="https://img.shields.io/badge/Made%20With-HTML-brightgreen/relativePath"> <img src="https://img.shields.io/badge/Made%20With-CSS-yellow/relativePath"> <img src="https://img.shields.io/badge/Made%20With-Javascript-red/relativePath">  
+
+The following image demonstrates the application functionality:
+
+![password generator demo](./Assets/demo.png)
+
+## Future Developments:
+Finishing the Application and adding functionality
+
+## License: 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Questions: 
+For any additional questions, can be reached through GitHub: Hamza Tanveer (https://github.com/swimmaison)
+
+
